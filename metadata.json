@@ -1,0 +1,6 @@
+{
+  "name": "Citizen Assist AI — Ecossistema CitizenTech",
+  "description": "Plataforma interativa de demonstração para a Global Solution 2026.2 (FIAP — Ciência da Computação): Assistente Cidadão com RAG Verificável, Motor de Decisão Lógica Booleana, Totem IoT Raspberry Pi Pico e Simulador de Sustentabilidade e Mobilidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
